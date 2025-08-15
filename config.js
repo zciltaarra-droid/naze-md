@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
+   * Create By graceyy.
    * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
+   * Contact Me on wa.me/6289513612726
    * Follow https://github.com/nazedev
 */
 
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.owner = ['6289513612726']
+global.ownernomer = "6283898880398"
+global.premium = ['6283898880398']
+global.packname = 'Sticker By graceyy'
+global.author = 'tataceeyy'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -77,3 +77,4 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 })
+
