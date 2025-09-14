@@ -9,7 +9,7 @@
 global.owner = ['6289513612726'] //['628','628'] 2 owner atau lebih
 global.author = 'grcta'
 global.botname = 'graceyy'
-global.packname = 'graceyy'
+global.packname = 'gracey'
 global.listprefix = ['+','!','.']
 
 /*
